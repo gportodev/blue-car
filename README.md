@@ -1,4 +1,9 @@
 # blue-car
-Animation with lottie
+Animation with lottie 
 
+# Screenshot
+
+![](assets/blue-car.png)  
+
+---
 
